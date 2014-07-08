@@ -226,7 +226,7 @@ Files
 
 **File Explorer** - Create your own simple windows explorer program. Add feature(s) you always thought are missing from MS Windows Explorer or Mac Finder.
 
-**Sort Excel/CSV File Utility** - Reads a file of records, sorts them, and then writes them back to the file. Allow the user to choose various sort style and sorting based on a particular field.
+**Sort Excel/CSV File Utility (DONE)** - Reads a file of records, sorts them, and then writes them back to the file. Allow the user to choose various sort style and sorting based on a particular field.
 
 **Create Zip File Maker** - The user enters various files from different directories and the program zips them up into a zip file. *Optional: Apply actual compression to the files. Start with Huffman Algorithm.*
 
@@ -262,7 +262,7 @@ Graphics and Multimedia
 
 **Stream Video from Online** - Try to create your own online streaming video player.
 
-**Mp3 Player** - A simple program for playing your favorite music files. Add features you though are missing from your favorite music player.
+**Mp3 Player(DONE)** - A simple program for playing your favorite music files. Add features you though are missing from your favorite music player.
 
 **Watermarking Application** - Have some pictures you want copyright protected? Add your own logo or text lightly across the background so that no one can simply steal your graphics off your site. Make a program that will add this watermark to the picture. *Optional: Use threading to process multiple images simultaneously.*
 
