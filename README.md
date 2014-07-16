@@ -131,7 +131,7 @@ Text
 
 [**Count Words in a String**](https://github.com/thekarangoel/Projects/blob/master/Text/count_words.py) - Counts the number of individual words in a string and display the top 5/10 most used words.
 
-**Text Editor** - Notepad style application that can open, edit, and save text documents. *Optional: Add syntax highlighting and other features.*
+**Text Editor**(DONE) - Notepad style application that can open, edit, and save text documents. *Optional: Add syntax highlighting and other features.*
 
 [**RSS Feed Creator**](https://github.com/thekarangoel/Projects/blob/master/Text/rss.py) - Given a link to RSS/Atom Feed, get all posts and display them.
 
